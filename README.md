@@ -30,6 +30,11 @@ cd Telegram_Bot
 
 ---
 
+## 🎥 Demo Video
+[![Watch the demo](demo.mp4)](https://www.linkedin.com/posts/durga-mangena1_telegrambot-botdevelopment-automationtools-activity-7342071315308212224-1O0s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEg4pF4B72wHASnP0GCGt_PrOKP-0--az-g)
+
+---
+
 # To use this bot:
 # process1
 Set your Telegram bot token and Google Gemini API key in the code.
